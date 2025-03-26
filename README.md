@@ -44,13 +44,6 @@ POST /evaluate
 ```
 - Compares generated answers with expected values.
 
-## Repository Structure
-```
-├── main.py          # FastAPI server
-├── README.md        # Setup instructions
-├── report.md        # Implementation details
-├── hotel_bookings.csv # Sample dataset
-```
 
 ## Future Improvements
 - Enhance LLM with fine-tuned models.
