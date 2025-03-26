@@ -1,0 +1,12 @@
+{
+  "queries": [
+    {
+      "question": "What is the total revenue for July 2017?",
+      "expected_answer": "The total revenue for July 2017 is $XYZ."
+    },
+    {
+      "question": "Which country has the most hotel cancellations?",
+      "expected_answer": "Country ABC has the highest cancellations."
+    }
+  ]
+}
